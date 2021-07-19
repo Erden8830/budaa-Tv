@@ -1,3 +1,18 @@
-body {
+<style>
+body{
   background-color: red;
 }
+      
+h1{
+    font-size: 200px;
+    color: black;
+}
+.budaa2{
+    color: black;
+    font-size: 50px;
+    font-style: unset;
+}
+.budaa{
+    font-size: 200px;
+}
+</style>

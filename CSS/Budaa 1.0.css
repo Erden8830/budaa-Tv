@@ -1,0 +1,56 @@
+body,
+html {
+  margin: 0%;
+  padding: 0%;
+}
+header {
+  width: 100%;
+  height: 70%;
+
+  background-image: image-set();
+}
+h1 {
+  position: absolute;
+  padding: 3px;
+  float: left;
+  margin-left: 2%;
+  margin-top: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: red;
+  font-family: "Teko", sans-serif;
+  font-size: xx-large;
+}
+
+span {
+  color: ;
+}
+body {
+  background-image: url("https://wallpapertag.com/wallpaper/full/f/7/9/278965-best-star-background-1920x1080-screen.jpg");
+}
+ul{
+    width: auto;
+    float: right;
+    margin-top: 40px;
+
+}
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+a{
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1.2vw;
+
+}
+a:hover{
+    color:
+    transition: 0.5s;
+
+}
+img{
+    width: 100%;
+    margin-top: -16px;
+}
